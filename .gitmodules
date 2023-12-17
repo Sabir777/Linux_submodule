@@ -7,3 +7,6 @@
 [submodule "tmux_config"]
 	path = tmux_config
 	url = git@github.com:Sabir777/tmux_conf.git
+[submodule "bash_scripts"]
+	path = bash_scripts
+	url = git@github.com:Sabir777/bash_scripts.git
