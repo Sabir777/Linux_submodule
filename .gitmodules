@@ -1,3 +1,6 @@
 [submodule "bash_scripts"]
 	path = bash_scripts
 	url = git@github.com:Sabir777/bash_scripts.git
+[submodule "Configs"]
+	path = Configs
+	url = git@github.com:Sabir777/All_configs.git
