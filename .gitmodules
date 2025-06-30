@@ -1,12 +1,3 @@
-[submodule "vimrc"]
-	path = vimrc
-	url = git@github.com:Sabir777/vimrc.git
-[submodule "git_config"]
-	path = git_config
-	url = git@github.com:Sabir777/Config-file-git.git
-[submodule "tmux_config"]
-	path = tmux_config
-	url = git@github.com:Sabir777/tmux_conf.git
 [submodule "bash_scripts"]
 	path = bash_scripts
 	url = git@github.com:Sabir777/bash_scripts.git
